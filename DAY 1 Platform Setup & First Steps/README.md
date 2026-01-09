@@ -1,11 +1,11 @@
-What I explored :
+What I explored :<br>
 📍 Databricks vs Pandas: Pandas for small data, Databricks for large data 
-📍 Databricks vs Hadoop: Hadoop needs more setup, Databricks is easier and faster 
-📍 Spark: Processes data by splitting work across multiple systems 
-📍 Lakehouse: Data storage and analytics in one place 
-
+<br>📍 Databricks vs Hadoop: Hadoop needs more setup, Databricks is easier and faster 
+<br>📍 Spark: Processes data by splitting work across multiple systems 
+<br>📍 Lakehouse: Data storage and analytics in one place 
+<br><br>
 What I did hands-on: 
-✔️ Created Databricks Community Edition account 
-✔️ Explored workspace, compute, and data explorer 
-✔️ Created my first notebook 
-✔️ Ran basic PySpark commands
+<br>✔️ Created Databricks Community Edition account 
+<br>✔️ Explored workspace, compute, and data explorer 
+<br>✔️ Created my first notebook 
+<br>✔️ Ran basic PySpark commands
